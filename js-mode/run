@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: Ember Run
+# key: run
+# binding: direct-keybinding
+# --
+Ember.run(function(){
+${1:// body}
+});
