@@ -3,3 +3,5 @@
 
 # Packaging
 .cask
+/ember-yasnippets-pkg.el
+/dist/
