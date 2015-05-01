@@ -1,4 +1,4 @@
-;;; ember-yasnippets.el --- Snippets for Ember.js development  -*- lexical-binding: t; -*-
+;;; ember-yasnippets.el --- Snippets for Ember.js development
 
 ;; Copyright (C) 2015  Ron White
 
