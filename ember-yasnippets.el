@@ -41,6 +41,7 @@
 ;; find-id       --> Ember Find by id
 ;; logger-debug  --> Ember Logger Debug
 ;; run           --> Ember Run
+;; runonce       --> Ember Run Once
 ;;
 ;; Properties
 ;;
