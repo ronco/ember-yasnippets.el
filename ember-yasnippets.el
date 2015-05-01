@@ -66,6 +66,7 @@
 
 ;;; Code:
 
+(defvar ember-yasnippets-root)
 (setq ember-yasnippets-root (file-name-directory (or load-file-name
                                                      (buffer-file-name))))
 
