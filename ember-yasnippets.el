@@ -42,6 +42,7 @@
 ;; logger-debug  --> Ember Logger Debug
 ;; run           --> Ember Run
 ;; runonce       --> Ember Run Once
+;; run-fat       --> Ember Run With Fat Arrow
 ;;
 ;; Properties
 ;;
