@@ -29,6 +29,9 @@
 ;;
 ;; SNIPPETS
 ;;
+;; Imports
+;; impe          --> import Ember
+;;
 ;; Data
 ;;
 ;; attr          --> Ember Data Attribute
