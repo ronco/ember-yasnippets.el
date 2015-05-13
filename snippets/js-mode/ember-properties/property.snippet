@@ -3,6 +3,6 @@
 # key: prop
 # binding: direct-keybinding
 # --
-${1:fooProp}: Ember.computed('${2:dependencies}', function(key, val) {
-${3:// body}
-}),
+${1:fooProp}: Ember.computed('${2:dependencies}', function(${3:key}${4:, val}) {
+${6:// body}
+})${5:,}
